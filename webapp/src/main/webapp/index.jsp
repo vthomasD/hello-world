@@ -69,8 +69,12 @@ body {font-family: "Lato", sans-serif}
   <!-- The Band Section -->
   <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="band">
     <h2 class="w3-wide">Gokul & co </h2>
-    <p class="w3-opacity"><i>the complete online shoppe</i></p>
-    <p class="w3-justify">We are offer all types of services and party facilities and we operate 24/7. Anytime anywhere</p>
+    <p class="w3-opacity"><i>the complete fun point</i></p>
+ 
+<iframe width="420" height="345" src="https://www.youtube.com/embed/ocmj9fdFrRs?autoplay=1&mute=1">
+</iframe>
+
+    <p class="w3-justify">come and have some fun & we operate 24/7. Anytime anywhere</p>
     <div class="w3-row w3-padding-32">
       <div class="w3-third">
         <p>Name</p>
