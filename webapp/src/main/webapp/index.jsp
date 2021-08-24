@@ -14,7 +14,7 @@ p {text-align: center;}
 div {text-align: center;}
 </style>
 <h2 >Gokul & co</h2>
-<iframe width="420" height="345" src="https://www.youtube.com/embed/xBT2H4F7bJw">
+<iframe width="420" height="345" src="https://www.youtube.com/embed/xBT2H4F7bJw?autoplay=1">
 </iframe>
 
 </body>
