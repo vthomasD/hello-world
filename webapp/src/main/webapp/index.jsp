@@ -43,30 +43,16 @@ img {margin-bottom: -7px}
 <!-- Photo Grid -->
 <div class="w3-row" id="myGrid" style="margin-bottom:128px">
   <div class="w3-third">
-    <img src="/w3images/rocks.jpg" style="width:100%">
-    <img src="/w3images/sound.jpg" style="width:100%">
-    <img src="/w3images/woods.jpg" style="width:100%">
-    <img src="/w3images/rock.jpg" style="width:100%">
-    <img src="/w3images/nature.jpg" style="width:100%">
-    <img src="/w3images/mist.jpg" style="width:100%">
+
+    
   </div>
 
   <div class="w3-third">
-    <img src="/w3images/coffee.jpg" style="width:100%">
-    <img src="/w3images/bridge.jpg" style="width:100%">
-    <img src="/w3images/notebook.jpg" style="width:100%">
-    <img src="/w3images/london.jpg" style="width:100%">
-    <img src="/w3images/rocks.jpg" style="width:100%">
-    <img src="/w3images/avatar_g.jpg" style="width:100%">
+<img src="https://i.pinimg.com/originals/39/f6/a0/39f6a005763b37e2237b320df0e68e31.gif" style="width:300%">
   </div>
 
   <div class="w3-third">
-    <img src="/w3images/mist.jpg" style="width:100%">
-    <img src="/w3images/workbench.jpg" style="width:100%">
-    <img src="/w3images/gondol.jpg" style="width:100%">
-    <img src="/w3images/skies.jpg" style="width:100%">
-    <img src="/w3images/lights.jpg" style="width:100%">
-    <img src="/w3images/workshop.jpg" style="width:100%">
+ 
   </div>
 </div>
 
