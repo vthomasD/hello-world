@@ -34,8 +34,8 @@ img {margin-bottom: -7px}
 <span class="w3-button w3-xxlarge w3-white w3-right" onclick="w3_open()"><i class="fa fa-bars"></i></span> 
 <div class="w3-clear"></div>
 <header class="w3-center w3-margin-bottom">
-  <h1><b>Gokul Inc</b></h1>
-  <p><b>Digital operators</b></p>
+  <h1><b>Rockstar International Corporation</b></h1>
+  <p><b></b></p>
   <p class="w3-padding-16"><button class="w3-button w3-black" onclick="myFunction()">Know more..</button></p>
 </header>
 </div>
@@ -48,7 +48,7 @@ img {margin-bottom: -7px}
   </div>
 
   <div class="w3-third">
-<img src="https://i.pinimg.com/originals/39/f6/a0/39f6a005763b37e2237b320df0e68e31.gif" style="width:300%">
+<img src="https://drive.google.com/file/d/1IUc3ZvdqwLOVqVbwXFAaJZazcqwykcs4/view?usp=drivesdk" style="width:300%">
   </div>
 
   <div class="w3-third">
@@ -67,7 +67,7 @@ img {margin-bottom: -7px}
   <i class="fa fa-pinterest-p w3-hover-opacity"></i>
   <i class="fa fa-twitter w3-hover-opacity"></i>
   <i class="fa fa-linkedin w3-hover-opacity"></i>
-  <p class="w3-medium">Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank" class="w3-hover-text-green">Raju Inc</a></p>
+  <p class="w3-medium">Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank" class="w3-hover-text-green">Rockstar Inc</a></p>
 </footer>
  
 <script>
